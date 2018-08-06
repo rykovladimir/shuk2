@@ -1,0 +1,31 @@
+#top-menu{box-shadow: 2px 2px 3px;}
+
+#eco-byisk{
+    background-image: url('https://mota.ru/upload/wallpapers/source/2012/09/22/18/01/32634/GTLKbu8wo9.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#lib{
+	margin: auto;
+}
+#card{
+	margin: auto;
+}
+
+#shuksh{
+	background-image: url('https://sun9-7.userapi.com/c836331/v836331263/ec2a/DL61SfNW1A4.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+}
+
+#byisk{
+	background-image: url('http://strana.ru/media/images/original/original20838471.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+}
