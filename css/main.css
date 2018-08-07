@@ -1,18 +1,49 @@
-@media (max-width:300px){
-    .container{
+@media screen and (max-width:1130px){
+    .container-fluid{
         width: 100%;
     }
 
     .header{
         display: none;
     }
-
+    
+    #eco-byisk{
+        display:none;
+    }
+    
     
 
+    #hexagon{
+        width: 150px;
+        height: 86px;
+        
+    }   
+
+            
+    }   
+
+    .hex h4 {
+        font-family: 'Josefin Sans', sans-serif;        
+        margin:0;   
+        font-size: 16px;        
+    }
+    
+    .hex hr {
+        border:0;
+        border-top:1px solid #eee;
+        width:60%;
+        margin:15px auto;
+    }
+    
+    .hex p {
+        display: none;
+    }
     
 }
 
-
+#hexagon{
+    margin-top: 60px;
+}
 
 
 .hex {
